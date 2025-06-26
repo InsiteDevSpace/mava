@@ -1,14 +1,12 @@
-
-import { useEffect } from 'react';
-import Navbar from '@/components/Navbar';
-import HeroSection from '@/components/HeroSection';
-import VisionSection from '@/components/VisionSection';
-import WhyMavaSection from '@/components/WhyMavaSection';
-import ImpactSection from '@/components/ImpactSection';
-import PartnersSection from '@/components/PartnersSection';
-import ContactSection from '@/components/ContactSection';
-import Footer from '@/components/Footer';
-import AnimatedReveal from '@/components/AnimatedReveal';
+import { useEffect } from "react";
+import Navbar from "@/components/Navbar";
+import HeroSection from "@/components/HeroSection";
+import VisionSection from "@/components/VisionSection";
+import WhyMavaSection from "@/components/WhyMavaSection";
+import ImpactSection from "@/components/ImpactSection";
+import PartnersSection from "@/components/PartnersSection";
+import Footer from "@/components/Footer";
+import AnimatedReveal from "@/components/AnimatedReveal";
 
 const Index = () => {
   useEffect(() => {
@@ -23,7 +21,6 @@ const Index = () => {
       <WhyMavaSection />
       <ImpactSection />
       <PartnersSection />
-      <ContactSection />
       <Footer />
       <AnimatedReveal />
     </div>
