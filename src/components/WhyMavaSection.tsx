@@ -77,8 +77,8 @@ const WhyMavaSection = () => {
             <div className="w-24 h-1 bg-mava-blue mx-auto mb-6"></div>
             <p className="text-gray-600 mb-6 text-center max-w-2xl">
               MAVA adopts a multifaceted approach, bringing together diverse
-              stakeholders to support innovative businesses and catalyze value
-              networks, for a sustainable agriculture in Africa.
+              stakeholders to catalyze value networks and support innovative
+              businesses, for a sustainable agriculture in Africa.
             </p>
             <div className="flex justify-center">
               <img
